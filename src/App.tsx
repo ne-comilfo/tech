@@ -9,7 +9,7 @@ export const App = () => {
   return (
     <Theme preset={presetGpnDefault}>
       <div className="app-container">
-        <BrowserRouter>
+        <BrowserRouter basename="/tech">
           <Routes>
             <Route path="/" element={<MainPage />} />
             <Route path="/users/:id" element={<UserDetails />} />

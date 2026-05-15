@@ -1,5 +1,7 @@
 # GoRest Dashboard
 
+[![Deploy Status](https://img.shields.io/badge/Demo-GitHub%20Pages-blueviolet?style=for-the-badge&logo=github)](https://ne-comilfo.github.io/tech/)
+
 SPA-приложение для управления пользователями и постами на основе публичного API GoRest, разработанное с использованием дизайн-системы Consta.
 
 ## Функционал
